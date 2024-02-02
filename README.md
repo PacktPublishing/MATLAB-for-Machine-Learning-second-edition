@@ -42,7 +42,7 @@ With the following software and hardware list you can run all code files present
 |  	1-11	   | MATLAB  	                                  			  | Any OS | 		
 
 ### Related products <Other books you may enjoy>
-* Engineering MLOps - Second Edition  [[Packt]]([https://www.packtpub.com/product](https://www.packtpub.com/product/practical-machine-learning-on-databricks/9781801812030) [[Amazon]]([https://www.amazon.com](https://www.amazon.com/Practical-Data-Science-Databricks-end/dp/1801812039/ref=sr_1_1?keywords=Practical+Machine+Learning+on+Databricks&sr=8-1)
+* Engineering MLOps - Second Edition  [[Packt]](https://www.packtpub.com/product/practical-machine-learning-on-databricks/9781801812030) [[Amazon]](https://www.amazon.com/Practical-Data-Science-Databricks-end/dp/1801812039/ref=sr_1_1?keywords=Practical+Machine+Learning+on+Databricks&sr=8-1)
   
 * Machine Learning Security with Azure  [[Packt]](https://www.packtpub.com/product/machine-learning-security-with-azure/9781805120483 ) [[Amazon]](https://www.amazon.com/Machine-Learning-Security-Azure-practices/dp/1805120484/ref=sr_1_1?keywords=Machine+Learning+Security+with+Azure&sr=8-1)
   
